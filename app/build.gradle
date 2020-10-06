@@ -8,7 +8,7 @@ android {
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "com.wil8dev.keep"
+        applicationId "com.k1odev.keep"
         minSdkVersion 23
         targetSdkVersion 29
         versionCode 1
