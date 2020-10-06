@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Keep</string>
+    <string name="empty_note_discarded_text_">Empty note discarded</string>
+    <string name="deleted_text_snackbar">Note moved to trash</string>
+    <string name="undo">Undo</string>
+    <string name="view">View</string>
+    <string name="delete">Delete</string>
+</resources>
